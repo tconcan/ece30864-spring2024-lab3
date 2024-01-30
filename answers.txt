@@ -4,3 +4,10 @@ a.  The project manager. The project manager is a key
     owner has the same role in agile methodology. The two
     roles help to conect stakeholders and the development
     team.
+
+b.  The Scrum Master's primary role is to facilitate and
+    support the scrum process. They help the scrum team
+    embrace and practice scrum principles. The product
+    owner is responsible for defining and prioritizing
+    the product backlog, they are the voice of the 
+    customer.
