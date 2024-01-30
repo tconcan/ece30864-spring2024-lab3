@@ -11,3 +11,15 @@ b.  The Scrum Master's primary role is to facilitate and
     owner is responsible for defining and prioritizing
     the product backlog, they are the voice of the 
     customer.
+
+c.  In a sprint cycle, the three meetings that occur are
+    the planning meeting, the daily scrum meeting, and the
+    sprint review meeting. In the planning meeting, the
+    goal is defined for the upcoming sprint and the
+    development team creates a list of tasks under that
+    sprint. In the scrum meeting, the development team
+    discusses their progress, and each team member 
+    proposes questions. In the sprint review meeting, 
+    it is a chance for the development team to present
+    their work to the product owner and for the product
+    owner to provide feedback.
