@@ -23,3 +23,11 @@ c.  In a sprint cycle, the three meetings that occur are
     it is a chance for the development team to present
     their work to the product owner and for the product
     owner to provide feedback.
+
+d.  An epic is a large body of work that can be broken
+    down into smaller tasks or stories. A story is a
+    smaller, more manageable, unit of work that deliver
+    value to end-users. A bug is an issue in the 
+    software that needs to be addressed. A task is an
+    ven smaller unit of work tha are used as part of a
+    story or epic.
