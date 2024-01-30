@@ -1,0 +1,6 @@
+a.  The project manager. The project manager is a key
+    stakeholder and is responsible for defining 
+    requirements and guiding the project. The product
+    owner has the same role in agile methodology. The two
+    roles help to conect stakeholders and the development
+    team.
